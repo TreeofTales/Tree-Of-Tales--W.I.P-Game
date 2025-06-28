@@ -35,8 +35,11 @@
   },
   "name":"Tree Of Tales",
   "resources":[
+    {"id":{"name":"obj_noxy","path":"objects/obj_noxy/obj_noxy.yy",},},
+    {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"spr_noxy","path":"sprites/spr_noxy/spr_noxy.yy",},},
+    {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

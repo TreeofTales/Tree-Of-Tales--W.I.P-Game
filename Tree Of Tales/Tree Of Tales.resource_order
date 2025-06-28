@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
+    {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
+  ],
 }
